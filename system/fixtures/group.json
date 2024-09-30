@@ -1,0 +1,20 @@
+[
+  {
+    "model": "auth.group",
+    "fields": {
+      "name": "管理员"
+    }
+  },
+  {
+    "model": "auth.group",
+    "fields": {
+      "name": "辅导员"
+    }
+  },
+  {
+    "model": "auth.group",
+    "fields": {
+      "name": "教师"
+    }
+  }
+]
